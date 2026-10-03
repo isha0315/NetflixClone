@@ -25,8 +25,6 @@ This is a clone of Netflix's landing page built using HTML and CSS only. It is f
        └── logo.svg
        └── bg.jpg
 
-📷 Screenshot:
-(Add a screenshot if you like by uploading one and adding the link here.)
 
 📖 How to Run:
 1. Clone or download the repository
